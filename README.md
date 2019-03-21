@@ -1,4 +1,9 @@
-# html-css-remover
+# HTML CSS Remover
+Remove all of the css class from html! 
+
+## Why need this?
+Sometime, there are too much class in html which is not match coding style. Remove them! Rewrite them !
+....Well, In fact that I don't think there are someone will use this thing....
 
 ## Project setup
 ```
