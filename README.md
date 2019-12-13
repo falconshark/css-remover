@@ -1,36 +1,36 @@
 # HTML CSS Remover
-Remove all of the css class from html! 
+Remove all of the css class or inline style from html! 
 
 ## Demo
 https://remover.sardo.work/
 
 ## Why need this?
-Sometime, there are too much class in html which is not match coding style. Remove them! Rewrite them !
+Sometime, there are too much class or inline style in html which is not match coding style. Remove them! Rewrite them !
 ....Well, In fact that I don't think there are someone will use this thing....
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+npm run build
 ```
 
 ### Run your tests
 ```
-yarn run test
+npm run test
 ```
 
 ### Lints and fixes files
 ```
-yarn run lint
+npm run lint
 ```
 
 ### Customize configuration
