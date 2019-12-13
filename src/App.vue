@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <div class="subtitle">Remove unused css class.</div>
+    <div class="subtitle">Remove unused css class or inline style.</div>
     <Remover/>
   </div>
 </template>
